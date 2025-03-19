@@ -7,7 +7,7 @@
 About Me:
 * Machine learning / Cloud Engineer working in Azure
 * Blogging at https://technicalpanda.com
-* Find me on [Twitter](https://twitter.com/technicalpanda) or [LinkedIn](https://www.linkedin.com/in/kevinoliver82)
+* Find me on [BlueSky](https://bsky.app/profile/technicalpanda.bsky.social) or [LinkedIn](https://www.linkedin.com/in/kevinoliver82)
 
 
 Hobbies: 🏐 🚴‍♂️ 🎻
